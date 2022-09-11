@@ -1,0 +1,18 @@
+.input-box{
+    height: 170px;
+    width: 200px;
+    margin: 20px 20px;
+    background-color: rgb(226, 189, 189);
+    text-align: center;
+}
+.input-box button{
+    margin: 10px 10px;
+}
+.form-ele{
+    border: 1px solid;
+    height: 170px;
+    width: 200px;
+    text-align: center;
+    margin: 40px 20px;
+    margin: auto;
+}
