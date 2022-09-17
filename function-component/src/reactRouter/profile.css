@@ -49,3 +49,14 @@
 .bor button:hover{
     background-color: lightgreen;
 }
+.shows button{
+    margin-right: 10px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    border: none;
+}
+.shows button:hover{
+    background-color: lightpink;
+}
