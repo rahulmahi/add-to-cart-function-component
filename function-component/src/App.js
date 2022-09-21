@@ -19,12 +19,14 @@ function App() {
         <Route path='about'  element={<About />} />
       </Routes>
       </BrowserRouter> */}
-      <BrowserRouter>
-      <Routes>
-        <Route path='/' element = {<ParamComponet />} />
-        <Route path='detail/:id' element = {<Deatil />} />
-      </Routes>
-      </BrowserRouter>
+      {/* <BrowserRouter> */}
+      {/* <Routes> */}
+        {/* <Route path='/' element = {<ParamComponet />} /> */}
+        {/* <Route path='detail/:id' element = {<Deatil />} /> */}
+      {/* </Routes> */}
+      {/* </BrowserRouter> */}
+      
+      <Interview />
       
     </div>
   );
